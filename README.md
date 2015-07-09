@@ -23,3 +23,11 @@ https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping
 http://react-router-mega-demo.herokuapp.com/
 
 
+Excercises:
+- [ ] 1-your-first-component
+- [ ] 2-props
+- [ ] 3-events-and-state
+- [ ] 4-props-v-state
+- [ ] 5-flux
+- [ ] 6-routing
+- [ ] 7-migrating-to-react
